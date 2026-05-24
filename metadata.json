@@ -1,0 +1,6 @@
+{
+  "name": "NovaLink",
+  "description": "Premium AI-powered social media network inspired by Instagram, TikTok, and futuristic assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
